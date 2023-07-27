@@ -9,7 +9,7 @@ MdSendTimeExtension,
 MdSendAndArchive,
 } from "react-icons/md";
 import Link from "next/link";
-import style from "@/app/styles/contact.module.css";
+import style from "@/app/styles/Contact.module.css";
 import submitContact from "./Contact_container";
 import { useState } from "react";
 const Contact_container = () => {

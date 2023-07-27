@@ -1,4 +1,4 @@
-import style from '@/app/styles/about_left.module.css';
+import style from '@/app/styles/About_left.module.css';
 const About_left = () => {
   return (
     <div className="col-sm-12, col-md-6, col-lg-6">
